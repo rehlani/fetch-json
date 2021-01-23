@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
